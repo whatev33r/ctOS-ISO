@@ -67,6 +67,7 @@ memtest86+-efi
 mkinitcpio
 mkinitcpio-archiso
 mkinitcpio-nfs-utils
+mkinitcpio-openswap
 modemmanager
 networkmanager
 #network-manager-applet
@@ -139,8 +140,15 @@ zsh
 
 # Env
 xfce4
+xterm
 sddm
 wofi
+bash-completion
+dex
+libxinerama
+make
+xorg-xkill
+xorg-xrdb
 
 # Theme
 noto-fonts
