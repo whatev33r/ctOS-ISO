@@ -157,6 +157,9 @@ orchis-theme-git
 gtk-engine-murrine
 gnome-themes-extra
 tela-circle-icon-theme-manjaro
+qt5‑graphicaleffects 
+qt5‑quickcontrols2 
+qt5‑svg
 
 # Calamares
 alci-calamares
