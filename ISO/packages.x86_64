@@ -161,12 +161,9 @@ tela-circle-icon-theme-manjaro
 # QT
 qt5-base
 qt5-declarative
-qt5-quickcontrols-5.15.11-1
-qt5-graphicaleffects-5.15.11-1
-qt5-svg-5.15.11+kde+r6-1
-#qt5‑graphicaleffects
-#qt5‑quickcontrols2
-#qt5‑svg
+qt5-quickcontrols
+qt5-graphicaleffects
+qt5-svg
 
 # Calamares
 alci-calamares
