@@ -138,6 +138,8 @@ wvdial
 xfsprogs
 xl2tpd
 zsh
+zsh-autosuggestions
+zsh-syntax-highlighting
 
 # Env
 xfce4
