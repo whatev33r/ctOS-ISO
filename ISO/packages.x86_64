@@ -76,6 +76,7 @@ networkmanager
 #networkmanager-pptp
 #networkmanager-vpnc
 mtools
+make
 nano
 nbd
 ndisc6
@@ -140,15 +141,13 @@ zsh
 
 # Env
 xfce4
-xterm
 sddm
 wofi
-bash-completion
 dex
 libxinerama
-make
 xorg-xkill
 xorg-xrdb
+xterm
 
 # Theme
 noto-fonts
@@ -161,7 +160,6 @@ tela-circle-icon-theme-manjaro
 alci-calamares
 ckbcomp
 os-prober
-#alci-calamares-config-pure
 
 # VM Support
 virtualbox-guest-utils
