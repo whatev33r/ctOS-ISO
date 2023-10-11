@@ -159,6 +159,7 @@ gnome-themes-extra
 tela-circle-icon-theme-manjaro
 
 # QT
+qt5-base
 qt5‑graphicaleffects
 qt5‑quickcontrols2
 qt5‑svg
