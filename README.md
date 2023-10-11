@@ -1,4 +1,4 @@
-# ctOS
+# ctOS v1.0
 
 [![Maintenance](https://img.shields.io/maintenance/yes/2023.svg)]()
 
