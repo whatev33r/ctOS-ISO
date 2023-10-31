@@ -27,8 +27,8 @@ strings:
 
 images:
     # productBanner:       "banner.png"
-    productIcon:         "squid.png"
-    productLogo:         "squid.png"
+    productIcon:         "logo.png"
+    productLogo:         "logo.png"
     # productWallpaper:    "wallpaper.png"
     productWelcome:      "placeholder.jpg"
 
