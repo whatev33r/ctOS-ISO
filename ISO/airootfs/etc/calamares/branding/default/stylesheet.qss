@@ -42,12 +42,13 @@ The examples are not exhaustive.
 }
 
 #sidebarMenuApp {
-	padding: 3px;
+	padding: 4px;
 	background-color: #000000;
 }
 
 QWidget {
-	font: 16px;
+	font: 14px;
+	color: #000000;
 }
 
 QTextEdit, QListView {
