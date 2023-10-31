@@ -38,4 +38,5 @@
   <property name="tab-activity-color" type="string" value="#dc322f"/>
   <property name="font-name" type="string" value="Monospace 10"/>
   <property name="scrolling-unlimited" type="bool" value="true"/>
+  <property name="misc-slim-tabs" type="bool" value="true"/>
 </channel>
