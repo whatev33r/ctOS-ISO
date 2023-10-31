@@ -70,7 +70,7 @@ mkinitcpio-nfs-utils
 mkinitcpio-openswap
 modemmanager
 networkmanager
-#network-manager-applet
+network-manager-applet
 #networkmanager-openconnect
 #networkmanager-openvpn
 #networkmanager-pptp
