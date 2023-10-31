@@ -33,10 +33,10 @@ images:
     productWelcome:      "placeholder.jpg"
 
 style:
-   SidebarBackground:    "#292F34"
+   SidebarBackground:    "#000000"
    SidebarText:          "#FFFFFF"
-   SidebarTextSelect:    "#292F34"
-   SidebarTextHighlight: "#D35400"
+   SidebarTextSelect:    "#000000"
+   SidebarTextHighlight: "#000000"
 
 slideshow:               "show.qml"
 
