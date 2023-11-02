@@ -7,7 +7,7 @@
 check **releases** section for prebuild ISO!
 
 ## Preview
-![ctOS](OS.png)
+![ctOS Preview](PREVIEW.png)
 
 ## How to build ISO
 Any Arch based system with installed ~~**Blackarch**~~ & **Chaotic AUR** Repo is **required** to build the ISO.
