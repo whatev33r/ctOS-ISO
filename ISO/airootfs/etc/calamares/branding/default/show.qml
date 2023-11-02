@@ -24,8 +24,7 @@ Presentation
             id: animation
             source: "loading.gif" 
             width: parent.width; height: parent.height
-            verticalAlignment: AnimatedImage.AlignTop
-            fillMode: AnimatedImage.Stretch
+            fillMode: AnimatedImage.PreserveAspectCrop
             anchors.centerIn: parent
         }
     }
