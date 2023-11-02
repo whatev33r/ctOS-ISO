@@ -15,19 +15,6 @@ Presentation
 {
     id: presentation
  
-    function nextSlide() {
-        console.log("QML Component (default slideshow) Next slide");
-        presentation.goToNextSlide();
-    }
- 
-    Timer {
-        id: advanceTimer
-        interval: 1000000000
-        running: presentation.activatedInCalamares
-        repeat: true
-        onTriggered: nextSlide()
-    }
- 
     Slide {
         // ctOS loading gif
         anchors.fill: parent
@@ -37,7 +24,7 @@ Presentation
             id: animation
             source: "loading.gif" 
             width: parent.width; height: parent.height
-            verticalAlignment: AnimatedImage.Aligntop
+            verticalAlignment: AnimatedImage.AlignTop
             fillMode: AnimatedImage.Stretch
             anchors.centerIn: parent
         }
