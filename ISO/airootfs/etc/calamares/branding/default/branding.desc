@@ -28,7 +28,7 @@ strings:
 images:
     productIcon:         "logo.png"
     productLogo:         "logo.png"
-    productWelcome:      "placeholder.jpg"
+    productWelcome:      "welcome.png"
 
 style:
    SidebarBackground:    "#000000"
