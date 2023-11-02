@@ -1,5 +1,3 @@
-![ctOS](LOGO.png)
-
 # ctOS v1.0
 
 [![Maintenance](https://img.shields.io/maintenance/yes/2023.svg)]()
@@ -8,6 +6,8 @@
 
 check **releases** section for prebuild ISO!
 
+## Preview
+![ctOS](OS.png)
 
 ## How to build ISO
 Any Arch based system with installed ~~**Blackarch**~~ & **Chaotic AUR** Repo is **required** to build the ISO.
