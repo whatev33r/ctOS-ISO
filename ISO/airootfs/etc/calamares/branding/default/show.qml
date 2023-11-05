@@ -31,7 +31,7 @@ Presentation
  
     function onActivate() {
         console.log("QML Component (default slideshow) activated");
-        presentation.currentSlide = 0;
+        // presentation.currentSlide = 0;
     }
  
     function onLeave() {
