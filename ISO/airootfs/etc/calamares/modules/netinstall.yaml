@@ -21,7 +21,6 @@
            - bettercap
            - responder
            - mitm6
-           - yersinia
            - wireshark-cli
            - tcpdump
            - netdiscover
