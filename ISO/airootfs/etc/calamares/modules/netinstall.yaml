@@ -11,7 +11,7 @@
   subgroups:
       - name: "Network"
         description: ""
-        selected: true
+        selected: false
         packages:
            - nmap
            - zmap
@@ -23,14 +23,16 @@
            - mitm6
            - yersinia
            - wireshark-cli
+           - tcpdump
            - netdiscover
            - enum4linux
            - pcredz
       - name: "Web"
         description: ""
-        selected: true
+        selected: false
         packages:
            - burpsuite
+           - zaproxy
            - feroxbuster
            - gobuster
            - dirsearch
@@ -42,22 +44,34 @@
            - dnsenum
            - subfinder
            - sqlmap
+           - sslscan
            - theharvester
            - nikto
            - wafw00f
            - graphw00f
       - name: "Reversing"
         description: ""
-        selected: true
+        selected: false
         packages:
            - ghidra
            - frida
            - android-apktool
            - oledump
            - python-oletools
+      - name: "Cracking"
+        description: ""
+        selected: false
+        packages:
+           - hashcat
+           - john
+           - hashtag
+           - hydra
+           - kerbrute
+           - brutessh
+           - 
       - name: "Wireless"
         description: ""
-        selected: true
+        selected: false
         packages:
            - aircrack-ng
            - wifite
