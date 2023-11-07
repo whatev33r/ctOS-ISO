@@ -145,7 +145,6 @@ zsh-syntax-highlighting
 # Env
 xfce4
 sddm
-wofi
 dex
 libxinerama
 xorg-xkill
@@ -153,7 +152,8 @@ xorg-xrdb
 xterm
 
 # Theme
-noto-fonts
+# noto-fonts
+ttf-cascadia-code-nerd
 orchis-theme-git
 gtk-engine-murrine
 gnome-themes-extra
