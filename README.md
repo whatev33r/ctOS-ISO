@@ -10,8 +10,8 @@ check **releases** section for prebuild ISO!
 ![ctOS Preview](PREVIEW.png)
 
 ## How to build ISO
-Any Arch based system with installed ~~**Blackarch**~~ & **Chaotic AUR** Repo is **required** to build the ISO.
-- ~~See [Blackarch](https://blackarch.org/downloads.html#install-repo) installation Guide.~~
+Any Arch based system with installed **Blackarch** & **Chaotic AUR** Repo is **required** to build the ISO.
+- See [Blackarch](https://blackarch.org/downloads.html#install-repo) installation Guide.
 - See [ChaoticAUR](https://aur.chaotic.cx/) installation Guide.
 
 **Step 1**: Install [Archiso](https://gitlab.archlinux.org/archlinux/archiso) utility:
