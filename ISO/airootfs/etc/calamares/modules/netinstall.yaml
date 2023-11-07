@@ -1,0 +1,60 @@
+- name: "Desktop-Base"
+  description: "Recommended. Default desktop environment (offline)."
+  hidden: false
+  selected: true
+  critical: true
+- name: "Pentesting-Tools"
+  description: "Selection of Pentesting Tools (online)"
+  hidden: false
+  selected: false
+  critical: true
+  subgroups:
+      - name: "General"
+        description: "..."
+        selected: false
+        packages:
+           - metasploit
+           - bettercap
+           - responder
+           - yersinia
+      - name: "Active Directory"
+        description: "..."
+        selected: false
+        packages:
+           - crackmapexec
+           - impacket
+      - name: "Wireless"
+        description: "..."
+        selected: false
+        packages:
+           - aircrack-ng
+           - wifite
+- name: "Printing-Support"
+  description: "Support for printing (Cups)"
+  hidden: false
+  selected: false
+  critical: true
+  packages:
+    - cups
+    - cups-filters
+    - cups-pdf
+    - foomatic-db
+    - foomatic-db-engine
+    - foomatic-db-gutenprint-ppds
+    - foomatic-db-nonfree
+    - foomatic-db-nonfree-ppds
+    - foomatic-db-ppds
+    - ghostscript
+    - gsfonts
+    - gutenprint
+    - splix
+    - system-config-printer
+- name: "Accessibility Tools"
+  description: "Screen reader and mouse tweaks (impaired vision)"
+  hidden: false
+  selected: false
+  critical: true
+  packages:
+    - espeak-ng
+    - mousetweaks
+    - orca
