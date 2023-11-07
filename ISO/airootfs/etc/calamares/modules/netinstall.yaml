@@ -1,31 +1,63 @@
 - name: "Desktop-Base"
-  description: "Recommended. Default desktop environment (offline)."
+  description: "Default Desktop Environment for ctOS."
   hidden: false
   selected: true
   critical: true
-- name: "Pentesting-Tools"
-  description: "Selection of Pentesting Tools (online)"
+- name: "Pentesting-Metapkgs"
+  description: "Pentesting Metapackages."
   hidden: false
   selected: false
   critical: true
   subgroups:
-      - name: "General"
+      - name: "Network"
         description: "..."
-        selected: false
+        selected: true
         packages:
+           - nmap
+           - zmap
            - metasploit
-           - bettercap
-           - responder
-           - yersinia
-      - name: "Active Directory"
-        description: "..."
-        selected: false
-        packages:
            - crackmapexec
            - impacket
+           - bettercap
+           - responder
+           - mitm6
+           - yersinia
+           - wireshark-cli
+           - netdiscover
+           - enum4linux
+           - pcredz
+      - name: "Web"
+        description: "..."
+        selected: true
+        packages:
+           - burpsuite
+           - feroxbuster
+           - gobuster
+           - dirsearch
+           - cmsscan
+           - eyewitness
+           - ffuf
+           - wpscan
+           - slowhttptest
+           - dnsenum
+           - subfinder
+           - sqlmap
+           - theharvester
+           - nikto
+           - wafw00f
+           - graphw00f
+      - name: "Reversing"
+        description: "..."
+        selected: true
+        packages:
+           - ghidra
+           - frida
+           - android-apktool
+           - oledump
+           - python-oletools
       - name: "Wireless"
         description: "..."
-        selected: false
+        selected: true
         packages:
            - aircrack-ng
            - wifite
