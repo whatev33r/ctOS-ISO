@@ -1,16 +1,16 @@
 - name: "Desktop-Base"
-  description: "Default Desktop Environment for ctOS."
+  description: "Default Desktop Environment for ctOS"
   hidden: false
   selected: true
   critical: true
-- name: "Pentesting-Metapkgs"
-  description: "Pentesting Metapackages."
+- name: "Pentesting-Packages"
+  description: "Pentesting Metapackages"
   hidden: false
   selected: false
   critical: true
   subgroups:
       - name: "Network"
-        description: "..."
+        description: ""
         selected: true
         packages:
            - nmap
@@ -27,7 +27,7 @@
            - enum4linux
            - pcredz
       - name: "Web"
-        description: "..."
+        description: ""
         selected: true
         packages:
            - burpsuite
@@ -47,7 +47,7 @@
            - wafw00f
            - graphw00f
       - name: "Reversing"
-        description: "..."
+        description: ""
         selected: true
         packages:
            - ghidra
@@ -56,7 +56,7 @@
            - oledump
            - python-oletools
       - name: "Wireless"
-        description: "..."
+        description: ""
         selected: true
         packages:
            - aircrack-ng
