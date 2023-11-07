@@ -1,5 +1,5 @@
 - name: "Desktop-Base"
-  description: "Default Desktop Environment for ctOS"
+  description: "Default Desktop Environment (xfce)"
   hidden: false
   selected: true
   critical: true
