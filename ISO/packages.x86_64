@@ -98,6 +98,7 @@ ppp
 pptpclient
 pv
 qemu-guest-agent
+rate-mirrors
 refind
 reflector
 reiserfsprogs
