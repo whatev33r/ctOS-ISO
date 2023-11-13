@@ -189,4 +189,5 @@ nmap
 
 # Blackarch
 blackarch-keyring
+blackarch-mirrorlist
 # ...
