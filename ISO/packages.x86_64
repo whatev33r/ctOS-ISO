@@ -1,7 +1,11 @@
-# Base system
+# Keyrings
 archlinux-keyring
+archlinux-mirrorlist
+blackarch-keyring
+blackarch-mirrorlist
+
+# Base system
 amd-ucode
-arch-install-scripts
 b43-fwcutter
 base
 base-devel
@@ -187,7 +191,5 @@ firefox-decentraleyes
 neofetch
 nmap
 
-# Blackarch
-blackarch-keyring
-blackarch-mirrorlist
+# PT
 # ...
