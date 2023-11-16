@@ -1,7 +1,5 @@
 # Keyrings
 archlinux-keyring
-blackarch-keyring
-blackarch-mirrorlist
 
 # Base system
 amd-ucode
