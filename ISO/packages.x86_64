@@ -152,9 +152,11 @@ libxinerama
 xorg-xkill
 xorg-xrdb
 xterm
+pulseaudio
+xfce4-pulseaudio-plugin
+
 
 # Theme
-# noto-fonts
 ttf-cascadia-code-nerd
 orchis-theme-git
 gtk-engine-murrine
