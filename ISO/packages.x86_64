@@ -153,8 +153,8 @@ xorg-xkill
 xorg-xrdb
 xterm
 pulseaudio
+pavucontrol
 xfce4-pulseaudio-plugin
-
 
 # Theme
 ttf-cascadia-code-nerd
