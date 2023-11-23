@@ -171,9 +171,12 @@ qt5-graphicaleffects
 qt5-svg
 
 # Calamares
-calamares
 ckbcomp
 os-prober
+
+# ctOS Repo
+calamares
+ctOS-calamares-config
 
 # VM Support
 virtualbox-guest-utils
