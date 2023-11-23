@@ -177,6 +177,7 @@ os-prober
 # ctOS Repo
 calamares
 ctOS-calamares-config
+yay
 
 # VM Support
 virtualbox-guest-utils
@@ -186,7 +187,6 @@ xf86-video-vmware
 xf86-video-qxl
 
 # Utility
-yay
 firefox
 firefox-ublock-origin
 firefox-decentraleyes
