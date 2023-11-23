@@ -176,8 +176,8 @@ os-prober
 
 # ctOS Repo
 calamares
-ctOS-calamares-config
-#ctOS-Repo/yay
+#ctOS-calamares-config
+ctOS-Repo/yay
 
 # VM Support
 virtualbox-guest-utils
