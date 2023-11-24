@@ -2,7 +2,8 @@
 
 [![Maintenance](https://img.shields.io/maintenance/yes/2023.svg)]()
 
-**main** branch is development latest (unstable)
+**main** branch is latest stable release
+**dev** branch is development latest (unstable)
 
 check **releases** section for prebuild ISO!
 
