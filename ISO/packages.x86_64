@@ -91,6 +91,7 @@ openconnect
 openpgp-card-tools
 openssh
 openvpn
+os-prober
 partclone
 parted
 partimage
@@ -169,10 +170,6 @@ qt5-declarative
 qt5-quickcontrols2
 qt5-graphicaleffects
 qt5-svg
-
-# Calamares
-ckbcomp
-os-prober
 
 # ctOS Repo
 calamares
