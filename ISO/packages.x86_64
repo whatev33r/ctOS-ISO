@@ -177,6 +177,7 @@ os-prober
 # ctOS Repo
 calamares
 ctOS-calamares-config
+ctOS-sddm-theme
 yay
 
 # VM Support
