@@ -159,10 +159,8 @@ xfce4-pulseaudio-plugin
 
 # Theme
 ttf-cascadia-code-nerd
-orchis-theme-git
 gtk-engine-murrine
 gnome-themes-extra
-tela-circle-icon-theme-manjaro
 
 # QT
 qt5-base
@@ -175,6 +173,8 @@ qt5-svg
 calamares
 ctOS-calamares-config
 ctOS-sddm-theme
+orchis-theme-git
+tela-circle-icon-theme-manjaro
 yay
 
 # VM Support
