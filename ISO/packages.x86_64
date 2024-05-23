@@ -157,9 +157,9 @@ pavucontrol
 xfce4-pulseaudio-plugin
 
 # Theme
-ttf-cascadia-code-nerd
-gtk-engine-murrine
-gnome-themes-extra
+#ttf-cascadia-code-nerd
+#gtk-engine-murrine
+#gnome-themes-extra
 
 # QT
 qt5-base
@@ -179,9 +179,9 @@ yay
 # VM Support
 virtualbox-guest-utils
 open-vm-tools
-xf86-input-vmmouse
-xf86-video-vmware
-xf86-video-qxl
+#xf86-input-vmmouse
+#xf86-video-vmware
+#xf86-video-qxl
 
 # Utility
 firefox
