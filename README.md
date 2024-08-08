@@ -2,11 +2,11 @@
 
 [![Maintenance](https://img.shields.io/maintenance/yes/2024.svg)]()
 
-check **releases** section for prebuild ISO!
+check **releases** section for prebuild stable ISO!
 
-- **main** branch is latest stable release
+- **main** branch is development latest (unstable)
 
-- **dev** branch is development latest (unstable)
+- **stable** branch is latest stable release
 
 ## Preview
 ![ctOS Preview](PREVIEW.png)
