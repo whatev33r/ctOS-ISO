@@ -168,12 +168,12 @@ qt5-graphicaleffects
 qt5-svg
 
 # ctOS Repo
-calamares
+calamares-git
+yay-git
 ctOS-calamares-config
 ctOS-sddm-theme
 orchis-theme
 tela-circle-icon-theme-standard
-yay
 
 # VM Support
 virtualbox-guest-utils
