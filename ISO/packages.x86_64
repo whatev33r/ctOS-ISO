@@ -168,7 +168,7 @@ qt5-graphicaleffects
 qt5-svg
 
 # ctOS Repo
-calamares-git
+calamares
 yay-git
 ctOS-calamares-config
 ctOS-sddm-theme
