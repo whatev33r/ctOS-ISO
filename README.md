@@ -1,6 +1,6 @@
 # ctOS v1.0
 
-[![Maintenance](https://img.shields.io/maintenance/yes/2024.svg)]()
+[![Maintenance](https://img.shields.io/maintenance/yes/2026.svg)]()
 
 check **releases** section for prebuild stable ISO!
 
