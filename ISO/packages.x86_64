@@ -6,6 +6,9 @@ base
 base-devel
 amd-ucode
 intel-ucode
+efibootmgr
+efitools
+grub
 b43-fwcutter
 bat
 bind
@@ -26,8 +29,6 @@ dnsmasq
 dosfstools
 e2fsprogs
 edk2-shell
-efibootmgr
-efitools
 espeakup
 ethtool
 exfatprogs
@@ -38,7 +39,6 @@ fsarchiver
 gpart
 gpm
 gptfdisk
-grub
 git
 hdparm
 hyperv
