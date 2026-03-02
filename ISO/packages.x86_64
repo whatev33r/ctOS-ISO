@@ -145,7 +145,8 @@ zsh-autosuggestions
 zsh-syntax-highlighting
 
 # Env
-xfce4
+#xfce4
+hyprland
 sddm
 dex
 libxinerama
@@ -154,7 +155,7 @@ xorg-xrdb
 xterm
 pulseaudio
 pavucontrol
-xfce4-pulseaudio-plugin
+#xfce4-pulseaudio-plugin
 
 # Theme
 ttf-cascadia-code-nerd
