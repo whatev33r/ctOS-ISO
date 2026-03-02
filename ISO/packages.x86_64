@@ -147,6 +147,7 @@ zsh-syntax-highlighting
 # Env
 #xfce4
 hyprland
+kitty
 sddm
 dex
 libxinerama
