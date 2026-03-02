@@ -7,7 +7,6 @@ base-devel
 amd-ucode
 intel-ucode
 linux
-linux-lts
 linux-firmware
 linux-firmware-marvell
 linux-headers
