@@ -1,14 +1,20 @@
 # Keyrings
 archlinux-keyring
 
-# Base system
+# Core pkgs
 base
 base-devel
 amd-ucode
 intel-ucode
+linux-lts
+linux-firmware
+linux-firmware-marvell
+linux-headers
 efibootmgr
 efitools
 grub
+
+# Base system
 b43-fwcutter
 bat
 bind
@@ -50,10 +56,6 @@ less
 lftp
 libfido2
 libusb-compat
-linux
-linux-firmware
-linux-firmware-marvell
-linux-headers
 livecd-sounds
 lsscsi
 lvm2
